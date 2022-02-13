@@ -70,7 +70,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 8.5.57" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.57" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="$PROJECT_DIR$/../../../JDK/Java/jdk1.8.0_131" nameIsGenerated="true">
@@ -240,7 +240,7 @@
       <workItem from="1644462276242" duration="1808000" />
       <workItem from="1644488301396" duration="2930000" />
       <workItem from="1644591701680" duration="261000" />
-      <workItem from="1644632688293" duration="13524000" />
+      <workItem from="1644632688293" duration="14806000" />
     </task>
     <task id="LOCAL-00001" summary="fuck">
       <created>1644725550776</created>
@@ -263,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644731171846</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="MySSM">
+      <created>1644732293329</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644732293329</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,10 +296,10 @@
     </state>
     <state x="150" y="12" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.720@0.0.1366.720" timestamp="1644591965684" />
     <state x="150" y="12" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1644677281889" />
-    <state x="478" y="0" key="CommitChangelistDialog2" timestamp="1644731170905">
+    <state x="478" y="0" key="CommitChangelistDialog2" timestamp="1644732292352">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="478" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1644731170905" />
+    <state x="478" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1644732292352" />
     <state x="714" y="91" key="FileChooserDialogImpl" timestamp="1644730210881">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -350,14 +357,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1093" height="27" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1644725559464" />
-    <state x="232" y="16" key="SettingsEditor" timestamp="1644730673816">
+    <state x="232" y="16" key="SettingsEditor" timestamp="1644733510736">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="232" y="16" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1644730673816" />
-    <state x="475" y="49" key="Vcs.Push.Dialog.v2" timestamp="1644732211419">
+    <state x="232" y="16" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1644733510736" />
+    <state x="475" y="49" key="Vcs.Push.Dialog.v2" timestamp="1644733489401">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="475" y="49" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1644732211419" />
+    <state x="475" y="49" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1644733489401" />
+    <state x="455" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1644732403573">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="455" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1644732403573" />
     <state x="346" y="46" key="spring file set editor" timestamp="1644488544532">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
