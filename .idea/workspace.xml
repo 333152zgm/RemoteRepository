@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="797ed1d3-a9a1-4ba5-baf4-979545abb4f6" name="Default Changelist" comment="" />
+    <list default="true" id="797ed1d3-a9a1-4ba5-baf4-979545abb4f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -238,7 +240,7 @@
       <workItem from="1644462276242" duration="1808000" />
       <workItem from="1644488301396" duration="2930000" />
       <workItem from="1644591701680" duration="261000" />
-      <workItem from="1644632688293" duration="12367000" />
+      <workItem from="1644632688293" duration="13524000" />
     </task>
     <task id="LOCAL-00001" summary="fuck">
       <created>1644725550776</created>
@@ -254,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644730973311</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="MySSM">
+      <created>1644731171846</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644731171846</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,7 +271,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fuck" />
-    <option name="LAST_COMMIT_MESSAGE" value="fuck" />
+    <MESSAGE value="MySSM" />
+    <option name="LAST_COMMIT_MESSAGE" value="MySSM" />
   </component>
   <component name="WindowStateProjectService">
     <state x="543" y="222" key="#Notifications" timestamp="1644730939335">
@@ -279,10 +289,10 @@
     </state>
     <state x="150" y="12" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.720@0.0.1366.720" timestamp="1644591965684" />
     <state x="150" y="12" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1644677281889" />
-    <state x="478" y="0" key="CommitChangelistDialog2" timestamp="1644730972258">
+    <state x="478" y="0" key="CommitChangelistDialog2" timestamp="1644731170905">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="478" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1644730972258" />
+    <state x="478" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1644731170905" />
     <state x="714" y="91" key="FileChooserDialogImpl" timestamp="1644730210881">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -344,10 +354,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="232" y="16" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1644730673816" />
-    <state x="475" y="49" key="Vcs.Push.Dialog.v2" timestamp="1644731022881">
+    <state x="475" y="49" key="Vcs.Push.Dialog.v2" timestamp="1644732211419">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="475" y="49" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1644731022881" />
+    <state x="475" y="49" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1644732211419" />
     <state x="346" y="46" key="spring file set editor" timestamp="1644488544532">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
